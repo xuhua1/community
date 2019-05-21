@@ -1,0 +1,10 @@
+export const HANDLE_INPUT_FOCUS = 'header/HANDLE_INPUT_FOCUS';
+export const HANDLE_INPUT_BLUR = 'header/HANDLE_INPUT_BLUR';
+export const CHANGE_HISTORY_LIST = 'header/CHANGE_HISTORY_LIST';
+export const HANDLE_MOUSE_IN_HISTORY = 'header/HANDLE_MOUSE_IN_HISTORY';
+export const HANDLE_MOUSE_OUT_HISTORY = 'header/HANDLE_MOUSE_OUT_HISTORY';
+export const SEARCH_VALUE = 'header/SEARCH_VALUE';
+export const DELETE_SEARCH_HIS_ITEM = 'header/DELETE_SEARCH_HIS_ITEM';
+export const ADD_HISTORY_ITEM = 'header/ADD_HISTORY_ITEM';
+export const CHANGE_HIS_ITEM = 'header/CHANGE_HIS_ITEM';
+export const BEGIN_SEARCH = 'header/BEGIN_SEARCH';

@@ -1,0 +1,2 @@
+export const CHANGE_MENU_CURRENT = 'body/CHANGE_MENU_CURRENT';
+export const CHANGE_PAPER_LIST = 'body/CHANGE_PAPER_LIST';

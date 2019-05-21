@@ -1,0 +1,26 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "mongoose": "^5.4.16",
+    "express": "^4.16.4",
+    "npm": "^5.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NachoSanchez/todolistAPI.git"
+  },
+  "author": "Ignacio Sánchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NachoSanchez/todolistAPI/issues"
+  },
+  "homepage": "https://github.com/NachoSanchez/todolistAPI#readme"
+}

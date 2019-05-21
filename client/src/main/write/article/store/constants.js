@@ -1,0 +1,4 @@
+export const CHANGE_EDIT_VALUE = 'write/CHANGE_EDIT_VALUE';
+export const CHANGE_EDIT_STATE = 'write/CHANGE_EDIT_STATE';
+export const INIT_ARTICLE_STATE = 'write/INIT_ARTICLE_STATE';
+export const HANDLE_TITLE_CHANGE = 'write/HANDLE_TITLE_CHANGE';
